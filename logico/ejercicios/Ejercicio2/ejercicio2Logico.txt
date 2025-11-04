@@ -1,3 +1,4 @@
+Guia 2 Logico.
 contar([],0).
 contar([_|Tail], N):-
     contar(Tail, N1),
